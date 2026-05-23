@@ -1,1 +1,2 @@
-# Rhythim-
+# Rhythim++
+Ever heard of Guitar Hero? It’s a fun game that also helps train your hand speed and reaction time, and what if we coded out that concept? You see code snippets like “print(“hello”)” pop up on screen, and you have to type them correctly before the timer runs out. If the player types the code correctly, they will get XP and build combos. If they fail, the combo is broken & they get no XP at all. And the best part: the music syncs to your typing, making coding feel like a rhythm game
